@@ -1,4 +1,5 @@
-# ui_challenge_4
+# Flutter Card Flip Animation
+This is a part of my Discord UI Challenge Week 4
 
 A new Flutter application.
 
